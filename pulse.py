@@ -6,7 +6,7 @@ import plotly.express as px
 from sqlalchemy import create_engine
 import psycopg2 as ps
 
-rootdir = 'C:/Users/Jos Joe/twitter_project_capstone/pulse/data'
+rootdir = '/pulse/data'
 datadict={}
 # paths={}
 pathtab={}
